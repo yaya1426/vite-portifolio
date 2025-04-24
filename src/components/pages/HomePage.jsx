@@ -44,7 +44,7 @@ const HomePage = () => {
   return (
     <div className="max-w-6xl mx-auto px-4">
       <Header 
-        title="Welcome to My Portfolio" 
+        title="Welcome to Yehia Tech Portfolio" 
         subtitle="Frontend Developer & UI/UX Designer" 
       />
       <main className="py-8">
